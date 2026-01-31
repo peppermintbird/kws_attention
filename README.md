@@ -12,7 +12,8 @@ This repository aims to explore initial strategies for using the output of an FP
 - Bio-inspired attention model for visual processing
 
 ### Audio processing
-<img src="/home.guest/rocharay/kws_attention/images/scheme_audio_processing.svg" alt="audio processing scheme">
+![Audio processing scheme](images/scheme_audio_processing.svg)
+
 
 ### Video processing
 <img src="/home.guest/rocharay/kws_attention/images/scheme.svg" alt="video processing scheme">
