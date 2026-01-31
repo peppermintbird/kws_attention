@@ -10,3 +10,9 @@ This repository aims to explore initial strategies for using the output of an FP
 - Frame-based to event-based video converter
 - File format converter 
 - Bio-inspired attention model for visual processing
+
+### Audio processing
+<img src="/home.guest/rocharay/kws_attention/images/scheme_audio_processing.svg" alt="audio processing scheme">
+
+### Video processing
+<img src="/home.guest/rocharay/kws_attention/images/scheme.svg" alt="video processing scheme">
