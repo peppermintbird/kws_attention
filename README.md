@@ -18,11 +18,7 @@ This repository aims to explore initial strategies for using the output of an FP
 ## Video processing
 <img src="images/scheme_video_processing.svg" alt="video processing scheme" width=450>
 
-### Experiments with objects
-### 2D objects - R0 = 0
-It was tried different numbers for R0 parameter, including 0, 4, 5, 8, 10, 14, and 16. 
 
-https://github.com/user-attachments/assets/be19c342-9f2a-4eb3-91e8-97e153eac436
 
 
 
